@@ -17,6 +17,7 @@ dev = [
   "bumpver",
   "pytest",
   "pytest-cov",
+  "pre-commit"
 ]
 docs = [
   "sphinx",
