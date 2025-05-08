@@ -17,4 +17,4 @@ repos:
           # Run the formatter.
           - id: ruff-format
 ci:
-    autoupdat_schedule: quarterly     
+    autoupdat_schedule: quarterly
